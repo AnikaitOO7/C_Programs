@@ -1,0 +1,12 @@
+Player Name :Aaa
+Played Date:Tue Dec 29 21:39:43 2020
+Score:1
+___________________________________________________
+Player Name :Ss
+Played Date:Mon Jan 18 20:23:31 2021
+Score:1
+___________________________________________________
+Player Name :Fuyigo8
+Played Date:Fri Feb 19 20:04:40 2021
+Score:0
+___________________________________________________
